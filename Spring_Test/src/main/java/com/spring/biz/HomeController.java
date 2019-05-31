@@ -37,6 +37,7 @@ public class HomeController {
 		System.out.println("2. branch test1");
 		System.out.println("2. branch test1");
 		System.out.println("3. owner");
+		System.out.println("Adfjhadgj");
 		
 		return "home";
 	}
